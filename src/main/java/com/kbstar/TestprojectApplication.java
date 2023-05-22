@@ -10,7 +10,7 @@ public class TestprojectApplication {
         SpringApplication.run(TestprojectApplication.class, args);
     }
 
-    int x = 30;
+    int x = 20;
 }
 
 
