@@ -1,4 +1,4 @@
-package com.kbstar.root;
+package com.kbstar;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
